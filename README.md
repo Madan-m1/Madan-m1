@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Madan 👋
 
-<!--
-**Madan-m1/Madan-m1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN)  
+⚙️ Backend & Real-Time Systems Enthusiast  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, Python, C  
+- **Frontend:** React.js, HTML, CSS, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman  
+- **Concepts:** OOP, Data Structures, REST APIs  
+
+---
+
+## 🔥 Projects
+
+### 🧠 Virtual Therapy Platform
+- Full-stack platform connecting users and therapists  
+- Real-time chat & video using Socket.io and WebRTC  
+- Secure authentication and role-based access  
+
+### 🚨 Evacu3D (Internship Project)
+- Real-time emergency evacuation system  
+- Multi-user synchronization using WebSockets  
+- Scalable backend APIs with authentication  
+
+### 🌍 Air Quality Prediction
+- Machine learning model using Python & Scikit-learn  
+- Flask-based web app for real-time predictions  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/madankumarm1  
+- Email: madankumarm1111@gmail.com  
+
+---
+
+⭐ Currently focused on improving backend systems, Java, and scalable architecture
