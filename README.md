@@ -46,12 +46,6 @@
 - Deployed using **Flask web application**
 - Enabled real-time prediction from processed datasets
 
-## 📊 GitHub Stats
-
-![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madan-m1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madan-m1&layout=compact&theme=tokyonight)
-
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/madankumarm1/
